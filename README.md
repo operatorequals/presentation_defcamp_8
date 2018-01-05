@@ -32,4 +32,4 @@ A brief ancore with an ICMP real world case ([available @ ReadTheDocs](http://co
 [Blog Post (Securosophy)](https://securosophy.com/2017/04/22/reinventing-the-wheel-for-the-last-time-the-covertutils-package/)
 ![](https://secure.gravatar.com/blavatar/5767a9479f86fbdf4ecfcf422cd36b50?s=16)
 
-[PyPI](https://pypi.python.org/pypi/covertutils/)
+[Package in PyPI](https://pypi.python.org/pypi/covertutils/)
