@@ -7,7 +7,7 @@ A bunch of stuff I have ever presented...
 ### Unexpected Shells with `covertutils`
 ![](https://github.com/operatorequals/presentations/raw/master/defcamp08_10112017_covertutils_front.png)
 
-[Presentation Video (YouTube)](https://www.youtube.com/watch?v=5X1cOMIOf8Y)
+[Presentation Video (YouTube)](https://www.youtube.com/watch?v=ngIQfYs3wM0)
 
 [Slides (GitHub)](https://github.com/operatorequals/presentations/raw/master/defcamp08_10112017_covertutils_presentation.pdf)
 
